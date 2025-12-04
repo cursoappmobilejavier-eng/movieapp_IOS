@@ -52,7 +52,7 @@
                                         <connections>
                                             <outlet property="posterImageView" destination="vMC-s7-whp" id="tX4-pv-jDA"/>
                                             <outlet property="titleLabel" destination="hSp-Ku-2wu" id="p16-J5-M8Z"/>
-                                            <segue destination="CKG-9Y-Y8u" kind="show" id="q4R-bz-c2Q"/>
+                                            <segue destination="CKG-9Y-Y8u" kind="show" identifier="ShowMovieDetail" id="q4R-bz-c2Q"/>
                                         </connections>
                                     </tableViewCell>
                                 </prototypes>
