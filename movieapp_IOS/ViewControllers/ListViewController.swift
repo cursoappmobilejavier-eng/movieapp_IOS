@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  RecipeApp-iOS
+//  MovieApp-iOS
 //
 //  Created by Mananas on 3/12/25.
 //
